@@ -1,0 +1,16 @@
+{
+  "name": "Flip Ledger",
+  "short_name": "Flip Ledger",
+  "description": "Track what you paid, what you sold it for, and what you actually made on each flip.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#16201F",
+  "theme_color": "#16201F",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
