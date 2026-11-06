@@ -1,6 +1,6 @@
 /* Flip Ledger offline cache.
    Bump CACHE whenever you change index.html so phones pick up the new version. */
-var CACHE = "flipledger-v2";
+var CACHE = "flipledger-v3";
 var SHELL = [
   "./",
   "./index.html",
